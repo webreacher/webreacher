@@ -20,7 +20,6 @@ I enjoy working with **Python, SQL, Data Analysis, Machine Learning, and Data Vi
 * Advanced Machine Learning
 * Deep Learning
 * Statistical Analysis
-* Data Engineering
 * AI/ML Applications
 
 ### 🎯 Goal
