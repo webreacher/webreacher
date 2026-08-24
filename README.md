@@ -1,5 +1,31 @@
 # 💫 About Me:
-Building full-stack web applications using React, Node.js, and MongoDB, and improving my skills in data analytics and real-world problem solving through hands-on projects.<br>Open-source projects, web applications, and beginner-friendly AI/ML or data-driven projects where I can learn, contribute, and grow .<br>Backend development, system design, and exploring real-world applications of AI & machine learning.<br>Full-stack development, Data Science, Machine Learning fundamentals, and improving my skills in React, Node.js, and Python.<br>Web development, JavaScript, frontend frameworks, building projects from scratch, or getting started in tech as a student.<br>I enjoy turning ideas into working applications and love learning new technologies by building real projects rather than just reading about them.
+
+I’m an aspiring **Data Scientist** passionate about transforming raw data into meaningful insights and building data-driven solutions.
+
+I enjoy working with **Python, SQL, Data Analysis, Machine Learning, and Data Visualization** to solve real-world problems. I’m continuously improving my skills through hands-on projects and practical applications.
+
+### 🔹 Data Science & Analytics
+
+* Python
+* SQL
+* Pandas & NumPy
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Machine Learning
+* Power BI & Excel
+
+### 🚀 Currently Learning
+
+* Advanced Machine Learning
+* Deep Learning
+* Statistical Analysis
+* Data Engineering
+* AI/ML Applications
+
+### 🎯 Goal
+
+To build impactful **data-driven solutions**, uncover meaningful patterns from data, and grow as a Data Scientist through continuous learning and real-world projects.
 
 
 ## 🌐 Socials:
