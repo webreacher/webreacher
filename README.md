@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m an aspiring **Data Scientist** passionate about transforming raw data into meaningful insights and building data-driven solutions.
+I’m an aspiring **Data Engineer** passionate about transforming raw data into meaningful insights and building data-driven solutions.
 
 I enjoy working with **Python, SQL, Data Analysis, Machine Learning, and Data Visualization** to solve real-world problems. I’m continuously improving my skills through hands-on projects and practical applications.
 
